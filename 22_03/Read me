@@ -1,1 +1,2 @@
-
+CALIBRACIÓN DE LA PLACA ARDUINO.
+Cada txt corresponde a la respuesta de la placa arduino para diferentes valores de resistencia entre la tierra y el canal A1. Se mantuvo constante el valor de V=5Volts.
