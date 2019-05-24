@@ -1,0 +1,13 @@
+LENGUAJE C
+
+-O3 para optimizar hasta grado 3 manteniendo portabilidad
+-Wall para que muestre errores y warnings
+-o el más comun (para decir el nombre del objeto)
+-lm para que use librerias matemáticas
+
+./ para que lo busque en ese directoria
+
+gcc (compilador de c)
+g++ (compilador de c++)
+
+
