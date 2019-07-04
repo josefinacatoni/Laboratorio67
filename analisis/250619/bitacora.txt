@@ -1,0 +1,40 @@
+Lo prendi en el anden 17:58 
+Cuando lo prendi ya estaba titilando entonces le corte la med, lo apague, prendi y volvi a medir.
+En ramos dejo de medir y lo volvi a poner a medir. 
+Despues dejo de medir de vuelta, lo apague, lo prendi y volvi a poner a medir.
+
+18:17 se alivio un poco la densidad (entre haedo y moron)
+18:20 se alivio mucho en moron
+18:35 me baje en ituz 
+lo apague en mi casa 10 min despues (aprox)
+
+Estaciones (medido):
+
+1) Liniers    (18:00)   0 sec.
+2) Ciudadela
+3) Ramos                (dejó de medir un rato)
+4) Haedo      (18:15)   900 sec.
+5) Morón      (18:20)   1200 sec.
+6) Castelar
+7) Ituzanigó  (18:35)   2100 sec.
+
+
+Datos de la medicion:
+
+1) Persona: Sticco 
+2) Vestimenta: Campera liviana.
+3) Ubicacion: frenta a las puertas de acceso del coche.
+4) Tren Sarmiento: ramal a Moreno - martes 24 de junio de 2019
+                   (según horarios del servicio Once-Moreno)
+                   Liniers:     18:02 hs   -->    0 sec.
+                   Ciudadela:   18:05 hs   -->  180 sec. 
+                   Ramos Mejía: 18:08 hs   -->  360 sec.
+                   Haedo:       18:13 hs   -->  660 sec.
+                   Morón:       18:17 hs   -->  900 sec.
+                   Castelar:    18:22 hs   --> 1200 sec. 
+                   Ituzaingó:   18:27 hs   --> 1500 sec.
+
+5) timestep = 0.2 sec. (5 muestras por segundo)
+                   
+
+
