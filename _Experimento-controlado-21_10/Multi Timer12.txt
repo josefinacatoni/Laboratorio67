@@ -1,0 +1,5 @@
+Multi Timer Lista de vueltas
+toques sensor
+Número ; Duration ; Vuelta
+1 ; 00:01:45.240 ; 00:01:45.240
+2 ; 00:08:59.278 ; 00:07:14.038

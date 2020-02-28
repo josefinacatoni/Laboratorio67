@@ -1,0 +1,5 @@
+Multi Timer Lista de vueltas
+espalda
+Número ; Duration ; Vuelta
+1 ; 00:44:33.123 ; 00:44:33.123
+2 ; 01:33:20.333 ; 00:48:47.210

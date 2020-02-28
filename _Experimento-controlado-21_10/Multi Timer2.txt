@@ -1,0 +1,4 @@
+Multi Timer Lista de vueltas
+comienzo exp
+Número ; Duration ; Vuelta
+1 ; 00:10:34.769 ; 00:10:34.769

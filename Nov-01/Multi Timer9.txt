@@ -1,0 +1,5 @@
+Multi Timer Lap list
+apaga switch
+No ; Duration ; Lap
+1 ; 01:11:33.082 ; 01:11:33.082
+2 ; 01:11:47.980 ; 00:00:14.898

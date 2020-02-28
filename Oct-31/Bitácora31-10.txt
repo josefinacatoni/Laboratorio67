@@ -1,0 +1,17 @@
+Subte  B 3 639
+Subte D M206 Aprox 8:18
+8:30 explota, ya desde entrada, mismo vagón 
+8:46 vagón 5312 no se ven cámaras 
+8:51 San Juan yendo a Constitución 
+8:53 abren en Constitución y 9:05 me bajo en Diagonal Norte
+9:11 M207 de DN a C, llega a C a las 9:20
+9:23 de C a DN. En Av de Mayo se baja mucha gente. 9:33 bajo en DN
+9:38 de DN a C. Rc 201. 9:45 llega a C ya puse a medir.
+9:49/50 apagué y prendí, parecía que no medía. 9:57 me bajé en DN
+
+1- abre puerta
+2- cierra puerta
+3- toques sensor
+4- inicio y fin med
+5- incomodidad
+Al pedo la 4 y la 5

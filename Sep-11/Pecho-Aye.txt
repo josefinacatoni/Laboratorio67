@@ -1,0 +1,5 @@
+Multi Timer Lista de vueltas
+Golpes Pecho 
+Número ; Duration ; Vuelta
+1 ; 00:29:22.478 ; 00:29:22.478
+2 ; 00:54:05.395 ; 00:24:42.917

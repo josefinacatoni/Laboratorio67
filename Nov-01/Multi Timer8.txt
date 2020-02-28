@@ -1,0 +1,5 @@
+Multi Timer Lap list
+prende switch
+No ; Duration ; Lap
+1 ; 00:00:10.942 ; 00:00:10.942
+2 ; 01:11:47.980 ; 01:11:37.038
